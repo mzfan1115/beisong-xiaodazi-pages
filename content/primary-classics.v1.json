@@ -1742,6 +1742,19 @@
       "sourceLicense": "MIT"
     },
     {
+      "id": "poem-95b7c5b0ab24ae0b",
+      "title": "暮江吟",
+      "author": "白居易",
+      "dynasty": "唐",
+      "kind": "poem",
+      "paragraphs": [
+        "一道残阳铺水中，半江瑟瑟半江红。",
+        "可怜九月初三夜，露似真珠月似弓。"
+      ],
+      "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry",
+      "sourceLicense": "MIT"
+    },
+    {
       "id": "pre-qin-lie-zi-liang-xiao-er-bian-ri",
       "title": "两小儿辩日",
       "author": "列子",
