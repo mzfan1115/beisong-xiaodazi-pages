@@ -1,0 +1,2570 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-02T09:40:35.079Z",
+  "edition": "unified-2019-baseline",
+  "verification": "baseline",
+  "sourceIndexUrl": "https://www.gushiwenku.cn/xuanji/xiaoxue-gushi/",
+  "notice": "原文候选仅用于家长逐字核对；2024—2026修订教材须另行按册验证。",
+  "entries": [
+    {
+      "id": "curriculum-4ddaa95cd432350e",
+      "title": "咏鹅",
+      "author": "骆宾王",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "鹅，鹅，鹅，曲项向天歌。",
+        "白毛浮绿水，红掌拨清波。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 1,
+        "semester": "上册",
+        "order": 1,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/168f4f7/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-9a1ce38d88fe99b1",
+      "title": "江南",
+      "author": "汉乐府",
+      "dynasty": "两汉",
+      "kind": "poem",
+      "paragraphs": [
+        "江南可采莲，莲叶何田田，鱼戏莲叶间。",
+        "鱼戏莲叶东，鱼戏莲叶西，鱼戏莲叶南，鱼戏莲叶北。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 1,
+        "semester": "上册",
+        "order": 2,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/824ac92/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-206bc1faa9aee654",
+      "title": "画",
+      "author": "王维",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "远看山有色，近听水无声。",
+        "春去花还在，人来鸟不惊。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 1,
+        "semester": "上册",
+        "order": 3,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/ac411ec/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-61851e28d203b5ff",
+      "title": "悯农（其二）",
+      "author": "李绅",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "锄禾日当午，汗滴禾下土。",
+        "谁知盘中餐，粒粒皆辛苦？"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 1,
+        "semester": "上册",
+        "order": 4,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/5f3cd93/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-b8b9788e019810c6",
+      "title": "古朗月行（节选）",
+      "author": "李白",
+      "dynasty": "唐代",
+      "kind": "excerpt",
+      "paragraphs": [
+        "小时不识月，呼作白玉盘。",
+        "又疑瑶台镜，飞在青云端。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 1,
+        "semester": "上册",
+        "order": 5,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/9692c5e/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-03a5e61ba0439002",
+      "title": "风",
+      "author": "李峤",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "解落三秋叶，能开二月花。",
+        "过江千尺浪，入竹万竿斜。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 1,
+        "semester": "上册",
+        "order": 6,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/3915bf2/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-e157f7c315c9b601",
+      "title": "春晓",
+      "author": "孟浩然",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "春眠不觉晓，处处闻啼鸟。",
+        "夜来风雨声，花落知多少。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 1,
+        "semester": "下册",
+        "order": 1,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/9b62b46/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-fafaec3200491e36",
+      "title": "赠汪伦",
+      "author": "李白",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "李白乘舟将欲行，忽闻岸上踏歌声。",
+        "桃花潭水深千尺，不及汪伦送我情。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 1,
+        "semester": "下册",
+        "order": 2,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/abfc8be/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-6c809158de545b42",
+      "title": "静夜思",
+      "author": "李白",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "床前明月光，疑是地上霜。",
+        "举头望明月，低头思故乡。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 1,
+        "semester": "下册",
+        "order": 3,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/f94de8e/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-3c25c3722d3cedd6",
+      "title": "寻隐者不遇",
+      "author": "贾岛",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "松下问童子，言师采药去。",
+        "只在此山中，云深不知处。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 1,
+        "semester": "下册",
+        "order": 4,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/09c8974/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-364ff522dde812e5",
+      "title": "人之初",
+      "author": "王应麟",
+      "dynasty": "宋代",
+      "kind": "excerpt",
+      "paragraphs": [
+        "人之初，性本善。",
+        "性相近，习相远。",
+        "苟不教，性乃迁。",
+        "教之道，贵以专。",
+        "子不学，非所宜。",
+        "幼不学，老何为。",
+        "玉不琢，不成器。",
+        "人不学，不知义。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 1,
+        "semester": "下册",
+        "order": 5,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/3875937/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-b0b3ad2728a1f900",
+      "title": "池上",
+      "author": "白居易",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "小娃撑小艇，偷采白莲回。",
+        "不解藏踪迹，浮萍一道开。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 1,
+        "semester": "下册",
+        "order": 6,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/6f2b477/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-f43fc5c947cd2d6e",
+      "title": "小池",
+      "author": "杨万里",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "泉眼无声惜细流，树阴照水爱晴柔。",
+        "小荷才露尖尖角，早有蜻蜓立上头。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 1,
+        "semester": "下册",
+        "order": 7,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/99847c1/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-f43d3cf0bb2c1b5f",
+      "title": "画鸡",
+      "author": "唐寅",
+      "dynasty": "明代",
+      "kind": "poem",
+      "paragraphs": [
+        "头上红冠不用裁，满身雪白走将来。",
+        "平生不敢轻言语，一叫千门万户开。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 1,
+        "semester": "下册",
+        "order": 8,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/dece85d/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-46222496705437f4",
+      "title": "梅花",
+      "author": "王安石",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "墙角数枝梅，凌寒独自开。",
+        "遥知不是雪，为有暗香来。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 2,
+        "semester": "上册",
+        "order": 1,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/76d4ae1/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-d35c6e046e162ab9",
+      "title": "小儿垂钓",
+      "author": "胡令能",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "蓬头稚子学垂纶，侧坐莓苔草映身。",
+        "路人借问遥招手，怕得鱼惊不应人。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 2,
+        "semester": "上册",
+        "order": 2,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/1d8d6f1/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-77c981a5578da0e7",
+      "title": "登鹳雀楼",
+      "author": "王之涣",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "白日依山尽，黄河入海流。",
+        "欲穷千里目，更上一层楼。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 2,
+        "semester": "上册",
+        "order": 3,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/6be1140/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-fbc1fb5bb48e7b61",
+      "title": "望庐山瀑布",
+      "author": "李白",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "日照香炉生紫烟，遥看瀑布挂前川。",
+        "飞流直下三千尺，疑是银河落九天。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 2,
+        "semester": "上册",
+        "order": 4,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/eae33c6/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-892bb34cbb0e3aec",
+      "title": "江雪",
+      "author": "柳宗元",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "千山鸟飞绝，万径人踪灭。",
+        "孤舟蓑笠翁，独钓寒江雪。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 2,
+        "semester": "上册",
+        "order": 5,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/689eacb/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-f5d9444c1897845b",
+      "title": "夜宿山寺",
+      "author": "李白",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "危楼高百尺，手可摘星辰。",
+        "不敢高声语，恐惊天上人。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 2,
+        "semester": "上册",
+        "order": 6,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/3ceb10b/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-07ab6adf3b32b152",
+      "title": "敕勒歌",
+      "author": "佚名",
+      "dynasty": "南北朝",
+      "kind": "poem",
+      "paragraphs": [
+        "敕勒川，阴山下。",
+        "天似穹庐，笼盖四野。",
+        "天苍苍，野茫茫，风吹草低见牛羊。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 2,
+        "semester": "上册",
+        "order": 7,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/9848deb/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-173812f172db3751",
+      "title": "村居",
+      "author": "高鼎",
+      "dynasty": "清代",
+      "kind": "poem",
+      "paragraphs": [
+        "草长莺飞二月天，拂堤杨柳醉春烟。",
+        "儿童散学归来早，忙趁东风放纸鸢。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 2,
+        "semester": "下册",
+        "order": 1,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/2c39345/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-d6e7cc786bde040f",
+      "title": "咏柳",
+      "author": "贺知章",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "碧玉妆成一树高，万条垂下绿丝绦。",
+        "不知细叶谁裁出，二月春风似剪刀。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 2,
+        "semester": "下册",
+        "order": 2,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/4afec3e/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-e390ba7d8ea66bab",
+      "title": "赋得古原草送别",
+      "author": "白居易",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "离离原上草，一岁一枯荣。",
+        "野火烧不尽，春风吹又生。",
+        "远芳侵古道，晴翠接荒城。",
+        "又送王孙去，萋萋满别情。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 2,
+        "semester": "下册",
+        "order": 3,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/dca8ec0/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-46ec5220091d37de",
+      "title": "弟子规（节选）",
+      "author": "李毓秀",
+      "dynasty": "清代",
+      "kind": "excerpt",
+      "paragraphs": [
+        "冠必正，纽必结。 袜与履，俱紧切。",
+        "置冠服，有定位。 勿乱顿，致污秽。",
+        "唯德学，唯才艺。 不如人，当自砺。",
+        "若衣服，若饮食。 不如人，勿生戚。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 2,
+        "semester": "下册",
+        "order": 4,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/6cd3ee6/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-852b3c798c091823",
+      "title": "晓出净慈寺送林子方",
+      "author": "杨万里",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "毕竟西湖六月中，风光不与四时同。",
+        "接天莲叶无穷碧，映日荷花别样红。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 2,
+        "semester": "下册",
+        "order": 5,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/59b23b9/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-b999521f41b1f801",
+      "title": "绝句",
+      "author": "杜甫",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "两个黄鹂鸣翠柳，一行白鹭上青天。",
+        "窗含西岭千秋雪，门泊东吴万里船。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 2,
+        "semester": "下册",
+        "order": 6,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/25bfe6c/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-27308b4c16e0a473",
+      "title": "悯农（其一）",
+      "author": "李绅",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "春种一粒粟，秋收万颗子。",
+        "四海无闲田，农夫犹饿死。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 2,
+        "semester": "下册",
+        "order": 7,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/aebfdde/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-bcd860b30f860d55",
+      "title": "舟夜书所见",
+      "author": "查慎行",
+      "dynasty": "清代",
+      "kind": "poem",
+      "paragraphs": [
+        "月黑见渔灯，孤光一点萤。",
+        "微微风簇浪，散作满河星。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 2,
+        "semester": "下册",
+        "order": 8,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/6c93dc9/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-0d16c237f67ef603",
+      "title": "所见",
+      "author": "袁枚",
+      "dynasty": "清代",
+      "kind": "poem",
+      "paragraphs": [
+        "牧童骑黄牛，歌声振林樾。",
+        "意欲捕鸣蝉，忽然闭口立。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "上册",
+        "order": 1,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/18a13e2/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-04d8954846553c37",
+      "title": "山行",
+      "author": "杜牧",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "远上寒山石径斜，白云生处有人家。",
+        "停车坐爱枫林晚，霜叶红于二月花。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "上册",
+        "order": 2,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/ac94142/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-d941dabed8008b2c",
+      "title": "赠刘景文",
+      "author": "苏轼",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "荷尽已无擎雨盖，菊残犹有傲霜枝。",
+        "一年好景君须记，最是橙黄橘绿时。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "上册",
+        "order": 3,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/5d9b4ac/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-d4481c92f0997143",
+      "title": "夜书所见",
+      "author": "叶绍翁",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "萧萧梧叶送寒声，江上秋风动客情。",
+        "知有儿童挑促织，夜深篱落一灯明。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "上册",
+        "order": 4,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/2d2b50a/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-f9d49458036e2dc6",
+      "title": "望天门山",
+      "author": "李白",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "天门中断楚江开，碧水东流至此回。",
+        "两岸青山相对出，孤帆一片日边来。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "上册",
+        "order": 5,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/37713ed/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-e9b88d42384b987b",
+      "title": "饮湖上初晴后雨（其二）",
+      "author": "苏轼",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "水光潋滟晴方好，山色空濛雨亦奇。",
+        "欲把西湖比西子，淡妆浓抹总相宜。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "上册",
+        "order": 6,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/02cdcab/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-132e41b424ff75cd",
+      "title": "望洞庭",
+      "author": "刘禹锡",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "湖光秋月两相和，潭面无风镜未磨。",
+        "遥望洞庭山水翠，白银盘里一青螺。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "上册",
+        "order": 7,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/8a92bb1/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-aca39d6bece7a553",
+      "title": "早发白帝城",
+      "author": "李白",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "朝辞白帝彩云间，千里江陵一日还。",
+        "两岸猿声啼不住，轻舟已过万重山。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "上册",
+        "order": 8,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/d0c2932/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-4ba1c3550538666f",
+      "title": "采莲曲",
+      "author": "王昌龄",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "荷叶罗裙一色裁，芙蓉向脸两边开。",
+        "乱入池中看不见，闻歌始觉有人来。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "上册",
+        "order": 9,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/551211f/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-d261199cbd99bdf9",
+      "title": "司马光",
+      "author": "佚名",
+      "dynasty": "宋代",
+      "kind": "classical-prose",
+      "paragraphs": [
+        "群儿戏于庭，一儿登瓮，足跌没水中，众皆弃去。光持石击瓮破之，水迸，儿得活。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "上册",
+        "order": 10,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/340f142/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-4d37fa60fdd0acab",
+      "title": "绝句（迟日江山丽）",
+      "author": "杜甫",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "迟日江山丽，春风花草香。",
+        "泥融飞燕子，沙暖睡鸳鸯。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "下册",
+        "order": 1,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/67d931b/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-5fcddc4ef68bea27",
+      "title": "惠崇春江晚景（其一）",
+      "author": "苏轼",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "竹外桃花三两枝，春江水暖鸭先知。",
+        "蒌蒿满地芦芽短，正是河豚欲上时。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "下册",
+        "order": 2,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/4443f41/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-93227c6dc7823720",
+      "title": "三衢道中",
+      "author": "曾几",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "梅子黄时日日晴，小溪泛尽却山行。",
+        "绿阴不减来时路，添得黄鹂四五声。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "下册",
+        "order": 3,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/ba4a309/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-95300f4966a3d7a3",
+      "title": "忆江南",
+      "author": "白居易",
+      "dynasty": "唐代",
+      "kind": "ci",
+      "paragraphs": [
+        "江南好，风景旧曾谙。",
+        "日出江花红胜火，春来江水绿如蓝。能不忆江南？"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "下册",
+        "order": 4,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/9669172/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-5de763d4a6761383",
+      "title": "守株待兔",
+      "author": "韩非",
+      "dynasty": "先秦",
+      "kind": "classical-prose",
+      "paragraphs": [
+        "宋人有耕者。田中有株，兔走触株，折颈而死。因释其耒而守株，冀复得兔。",
+        "兔不可复得，而身为宋国笑。今欲以先王之政，治当世之民，皆守株之类也。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "下册",
+        "order": 5,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/a017413/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-bce8baba2ccf38f5",
+      "title": "元日",
+      "author": "王安石",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "爆竹声中一岁除，春风送暖入屠苏。",
+        "千门万户曈曈日，总把新桃换旧符。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "下册",
+        "order": 6,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/dcb4593/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-934f10ab4abf7ba5",
+      "title": "清明",
+      "author": "杜牧",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "清明时节雨纷纷，路上行人欲断魂。",
+        "借问酒家何处有？牧童遥指杏花村。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "下册",
+        "order": 7,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/5f6d468/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-3295f6a54ad856c2",
+      "title": "九月九日忆山东兄弟",
+      "author": "王维",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "独在异乡为异客，每逢佳节倍思亲。",
+        "遥知兄弟登高处，遍插茱萸少一人。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "下册",
+        "order": 8,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/13a36a1/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-9fff1526bd54fd7a",
+      "title": "滁州西涧",
+      "author": "韦应物",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "独怜幽草涧边生，上有黄鹂深树鸣。",
+        "春潮带雨晚来急，野渡无人舟自横。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "下册",
+        "order": 9,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/d59b33d/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-1deb32e05e6f62de",
+      "title": "大林寺桃花",
+      "author": "白居易",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "人间四月芳菲尽，山寺桃花始盛开。",
+        "长恨春归无觅处，不知转入此中来。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 3,
+        "semester": "下册",
+        "order": 10,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/2617f2b/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-bc1b8a956b782a2e",
+      "title": "鹿柴",
+      "author": "王维",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "空山不见人，但闻人语响。",
+        "返景入深林，复照青苔上。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "上册",
+        "order": 1,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/8f82b5d/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-95b7c5b0ab24ae0b",
+      "title": "暮江吟",
+      "author": "白居易",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "一道残阳铺水中，半江瑟瑟半江红。",
+        "可怜九月初三夜，露似真珠月似弓。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "上册",
+        "order": 2,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/bad340c/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-144c302b1ccf9053",
+      "title": "题西林壁",
+      "author": "苏轼",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "横看成岭侧成峰，远近高低各不同。",
+        "不识庐山真面目，只缘身在此山中。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "上册",
+        "order": 3,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/f0964ed/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-8e6cf4f519620c22",
+      "title": "雪梅",
+      "author": "卢钺",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "梅雪争春未肯降，骚人阁笔费评章。",
+        "梅须逊雪三分白，雪却输梅一段香。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "上册",
+        "order": 4,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/13e0eb2/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-968dda2730d411e1",
+      "title": "精卫填海",
+      "author": "佚名",
+      "dynasty": "先秦",
+      "kind": "classical-prose",
+      "paragraphs": [
+        "又北二百里，曰发鸠之山，其上多柘木，有鸟焉，其状如乌，文首，白喙，赤足，名曰：“精卫”，其鸣自詨。是炎帝之少女，名曰女娃。女娃游于东海，溺而不返，故为精卫，常衔西山之木石，以堙于东海。漳水出焉，东流注于河。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "上册",
+        "order": 5,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/62c952f/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-04d504a40f020683",
+      "title": "嫦娥",
+      "author": "李商隐",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "云母屏风烛影深，长河渐落晓星沉。",
+        "嫦娥应悔偷灵药，碧海青天夜夜心。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "上册",
+        "order": 6,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/b341c34/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-5f4caf4c98978f8f",
+      "title": "出塞",
+      "author": "王昌龄",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "秦时明月汉时关，万里长征人未还。",
+        "但使龙城飞将在，不教胡马度阴山。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "上册",
+        "order": 7,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/06105e4/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-266fa6f3146cb306",
+      "title": "凉州词",
+      "author": "王翰",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "葡萄美酒夜光杯，欲饮琵琶马上催。",
+        "醉卧沙场君莫笑，古来征战几人回？"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "上册",
+        "order": 8,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/049a59e/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-d9e87fa37164902a",
+      "title": "夏日绝句",
+      "author": "李清照",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "生当作人杰，死亦为鬼雄。",
+        "至今思项羽，不肯过江东。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "上册",
+        "order": 9,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/f2c11ce/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-40a61c553d268e77",
+      "title": "别董大",
+      "author": "高适",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "千里黄云白日曛，北风吹雁雪纷纷。",
+        "莫愁前路无知己，天下谁人不识君。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "上册",
+        "order": 10,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/b4189d1/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-97bebc6984d21217",
+      "title": "王戎不取道旁李",
+      "author": "佚名",
+      "dynasty": "宋代",
+      "kind": "classical-prose",
+      "paragraphs": [
+        "王戎七岁，尝与诸小儿游。看道边李树多子折枝，诸儿竞走取之，唯戎不动。",
+        "人问之，答曰：“树在道边而多子，此必苦李。”",
+        "取之，信然。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "上册",
+        "order": 11,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/1e8df78/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-8ac5ebd12b4af1e2",
+      "title": "宿新市徐公店",
+      "author": "杨万里",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "篱落疏疏一径深，树头新绿未成阴。",
+        "儿童急走追黄蝶，飞入菜花无处寻。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "下册",
+        "order": 1,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/2dd2173/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-fce84df6d027aadd",
+      "title": "四时田园杂兴（其二十五）",
+      "author": "范成大",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "梅子金黄杏子肥，麦花雪白菜花稀。",
+        "日长篱落无人过，惟有蜻蜓蛱蝶飞。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "下册",
+        "order": 2,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/4153bfc/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-d1169d08740bf82b",
+      "title": "清平乐·村居",
+      "author": "辛弃疾",
+      "dynasty": "宋代",
+      "kind": "ci",
+      "paragraphs": [
+        "茅檐低小，溪上青青草。醉里吴音相媚好，白发谁家翁媪？",
+        "大儿锄豆溪东，中儿正织鸡笼。最喜小儿亡赖，溪头卧剥莲蓬。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "下册",
+        "order": 3,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/10b8c3d/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-1606ae04254e5748",
+      "title": "卜算子·咏梅",
+      "author": "毛泽东",
+      "dynasty": "近代",
+      "kind": "ci",
+      "paragraphs": [
+        "风雨送春归，飞雪迎春到。已是悬崖百丈冰，犹有花枝俏。",
+        "俏也不争春，只把春来报。待到山花烂漫时，她在丛中笑。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "下册",
+        "order": 4,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/bf7f4f0/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-e4e6520f0f034b31",
+      "title": "蜂",
+      "author": "罗隐",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "不论平地与山尖，无限风光尽被占。",
+        "采得百花成蜜后，为谁辛苦为谁甜？"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "下册",
+        "order": 5,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/bb0e829/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-19cd41d47d368c5d",
+      "title": "独坐敬亭山",
+      "author": "李白",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "众鸟高飞尽，孤云独去闲。",
+        "相看两不厌，只有敬亭山。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "下册",
+        "order": 6,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/7c55426/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-b31ccea6e382d709",
+      "title": "芙蓉楼送辛渐",
+      "author": "王昌龄",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "寒雨连江夜入吴，平明送客楚山孤。",
+        "洛阳亲友如相问，一片冰心在玉壶。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "下册",
+        "order": 7,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/c716520/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-cc6fba78596b7562",
+      "title": "塞下曲",
+      "author": "卢纶",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "月黑雁飞高，单于夜遁逃。",
+        "欲将轻骑逐，大雪满弓刀。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "下册",
+        "order": 8,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/b7eae90/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-d7ad6f90ac5f5090",
+      "title": "墨梅",
+      "author": "王冕",
+      "dynasty": "元代",
+      "kind": "poem",
+      "paragraphs": [
+        "吾家洗砚池头树，个个花开淡墨痕。",
+        "不要人夸好颜色，只流清气满乾坤。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "下册",
+        "order": 9,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/f38e404/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-76f239a1eeb7bc83",
+      "title": "囊萤夜读",
+      "author": "佚名",
+      "dynasty": "唐代",
+      "kind": "classical-prose",
+      "paragraphs": [
+        "胤恭勤不倦，博学多通。家贫不常得油，夏月则练囊盛数十萤火以照书，以夜继日焉。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "下册",
+        "order": 10,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/dbdba2f/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-8373652035df77f3",
+      "title": "铁杵成针",
+      "author": "郑之珍",
+      "dynasty": "明代",
+      "kind": "classical-prose",
+      "paragraphs": [
+        "磨针溪，在象耳山下。世传李太白读书山中，未成，弃去。过是溪，逢老媪方磨铁杵。问之，曰：“欲作针。”太白感其意，还卒业。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 4,
+        "semester": "下册",
+        "order": 11,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/33d2170/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-dd6591e64c87b6b3",
+      "title": "乞巧",
+      "author": "林杰",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "七夕今宵看碧霄，牵牛织女渡河桥。",
+        "家家乞巧望秋月，穿尽红丝几万条。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "上册",
+        "order": 1,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/cdf026c/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-6c63bcedc4c02ee1",
+      "title": "示儿",
+      "author": "陆游",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "死去元知万事空，但悲不见九州同。",
+        "王师北定中原日，家祭无忘告乃翁。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "上册",
+        "order": 2,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/30a881c/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-0972404e5a55f4be",
+      "title": "题临安邸",
+      "author": "林升",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "山外青山楼外楼，西湖歌舞几时休？",
+        "暖风熏得游人醉，直把杭州作汴州。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "上册",
+        "order": 3,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/031b119/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-6c9174710611d9ad",
+      "title": "己亥杂诗（其五）",
+      "author": "龚自珍",
+      "dynasty": "清代",
+      "kind": "poem",
+      "paragraphs": [
+        "九州生气恃风雷，万马齐喑究可哀。",
+        "我劝天公重抖擞，不拘一格降人才。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "上册",
+        "order": 4,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/172078f/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-907bd540e7d56455",
+      "title": "少年中国说（节选）",
+      "author": "梁启超",
+      "dynasty": "近代",
+      "kind": "excerpt",
+      "paragraphs": [
+        "故今日之责任，不在他人，而全在我少年。少年智则国智，少年富则国富；少年强则国强，少年独立则国独立；少年自由则国自由；少年进步则国进步；少年胜于欧洲，则国胜于欧洲；少年雄于地球，则国雄于地球。",
+        "红日初升，其道大光。河出伏流，一泻汪洋。潜龙腾渊，鳞爪飞扬。乳虎啸谷，百兽震惶。鹰隼试翼，风尘翕张。奇花初胎，矞矞皇皇。干将发硎，有作其芒。天戴其苍，地履其黄。纵有千古，横有八荒。前途似海，来日方长。美哉我少年中国，与天不老！壮哉我中国少年，与国无疆！"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "上册",
+        "order": 5,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/4687eea/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-b5bb4602b41bea72",
+      "title": "山居秋暝",
+      "author": "王维",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "空山新雨后，天气晚来秋。",
+        "明月松间照，清泉石上流。",
+        "竹喧归浣女，莲动下渔舟。",
+        "随意春芳歇，王孙自可留。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "上册",
+        "order": 6,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/440dd75/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-89bed5f2be957239",
+      "title": "枫桥夜泊",
+      "author": "张继",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "月落乌啼霜满天，江枫渔火对愁眠。",
+        "姑苏城外寒山寺，夜半钟声到客船。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "上册",
+        "order": 7,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/4d77ffc/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-cce6ba0b96fb6a90",
+      "title": "长相思",
+      "author": "纳兰性德",
+      "dynasty": "清代",
+      "kind": "ci",
+      "paragraphs": [
+        "山一程，水一程，身向榆关那畔行，夜深千帐灯。",
+        "风一更，雪一更，聒碎乡心梦不成，故园无此声。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "上册",
+        "order": 8,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/7029835/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-858c6ba35534a39c",
+      "title": "渔歌子",
+      "author": "张志和",
+      "dynasty": "唐代",
+      "kind": "ci",
+      "paragraphs": [
+        "西塞山前白鹭飞，桃花流水鳜鱼肥。",
+        "青箬笠，绿蓑衣，斜风细雨不须归。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "上册",
+        "order": 9,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/84a494f/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-e99277ebe22aa455",
+      "title": "古人谈读书（三则）",
+      "author": "佚名",
+      "dynasty": "先秦",
+      "kind": "classical-prose",
+      "paragraphs": [
+        "【论语】",
+        "敏而好学，不耻下问。",
+        "知之为知之，不知为不知，是知也。",
+        "默而识之，学而不厌，诲人不倦。",
+        "【朱熹】",
+        "余尝谓：读书有三到，谓心到、眼到、口到。心不在此，则眼不看仔细，心眼既不专一，却只漫浪诵读，决不能记，记亦不能久。三到之中，心到最急。心既到矣，眼口岂不到乎？",
+        "【曾国藩】",
+        "盖士人读书，第一要有志，第二要有识，第三要有恒。有志则断不甘为下流；有识则知学问无尽，不敢以一得自足，如河伯之观海，如井蛙之窥天，皆无识者也；有恒则断无不成之事。此三者缺一不可。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "上册",
+        "order": 10,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/4ac57a5/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-ee459abd30f0a285",
+      "title": "观书有感（其一）",
+      "author": "朱熹",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "半亩方塘一鉴开，天光云影共徘徊。",
+        "问渠那得清如许？为有源头活水来。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "上册",
+        "order": 11,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/943ac55/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-311fcfe8b3477cc7",
+      "title": "观书有感（其二）",
+      "author": "朱熹",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "昨夜江边春水生，艨艟巨舰一毛轻。",
+        "向来枉费推移力，此日中流自在行。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "上册",
+        "order": 12,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/640172c/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-94842e8fbddd4c67",
+      "title": "四时田园杂兴（其三十一）",
+      "author": "范成大",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "昼出耘田夜绩麻，村庄儿女各当家。",
+        "童孙未解供耕织，也傍桑阴学种瓜。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "下册",
+        "order": 1,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/1336a1a/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-849d81890565023c",
+      "title": "稚子弄冰",
+      "author": "杨万里",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "稚子金盆脱晓冰，彩丝穿取当银钲。",
+        "敲成玉磬穿林响，忽作玻璃碎地声。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "下册",
+        "order": 2,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/eb50dd5/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-014e432ea1a92448",
+      "title": "村晚",
+      "author": "雷震",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "草满池塘水满陂，山衔落日浸寒漪。",
+        "牧童归去横牛背，短笛无腔信口吹。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "下册",
+        "order": 3,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/953cfcb/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-81850771ebec6a6e",
+      "title": "鸟鸣涧",
+      "author": "王维",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "人闲桂花落，夜静春山空。",
+        "月出惊山鸟，时鸣春涧中。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "下册",
+        "order": 4,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/0a0cf85/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-e4d209c5bcf7d2d3",
+      "title": "从军行",
+      "author": "王昌龄",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "青海长云暗雪山，孤城遥望玉门关。",
+        "黄沙百战穿金甲，不破楼兰终不还。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "下册",
+        "order": 5,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/aaad75e/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-32dde54e0197dc5c",
+      "title": "送元二使安西",
+      "author": "王维",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "渭城朝雨浥轻尘，客舍青青柳色新。",
+        "劝君更尽一杯酒，西出阳关无故人。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "下册",
+        "order": 6,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/0355f9b/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-2435298e4deb496f",
+      "title": "秋夜将晓出篱门迎凉有感（其二）",
+      "author": "陆游",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "三万里河东入海，五千仞岳上摩天。",
+        "遗民泪尽胡尘里，南望王师又一年。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "下册",
+        "order": 7,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/2bb4287/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-be4f49170e5a1852",
+      "title": "凉州词",
+      "author": "王之涣",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "黄河远上白云间，一片孤城万仞山。",
+        "羌笛何须怨杨柳，春风不度玉门关。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "下册",
+        "order": 8,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/d0ad9af/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-addcd5b677e0aeb8",
+      "title": "黄鹤楼送孟浩然之广陵",
+      "author": "李白",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "故人西辞黄鹤楼，烟花三月下扬州。",
+        "孤帆远影碧空尽，唯见长江天际流。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "下册",
+        "order": 9,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/3d4e45f/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-943817b245f751ce",
+      "title": "自相矛盾",
+      "author": "韩非",
+      "dynasty": "先秦",
+      "kind": "classical-prose",
+      "paragraphs": [
+        "楚人有鬻盾与矛者，誉之曰：“吾盾之坚，物莫能陷也。”",
+        "又誉其矛曰：“吾矛之利，于物无不陷也。”",
+        "或曰：“以子之矛陷子之盾，何如？”",
+        "其人弗能应也。夫不可陷之盾与无不陷之矛，不可同世而立。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "下册",
+        "order": 10,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/2d0420a/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-a195cdb3c17379d4",
+      "title": "乡村四月",
+      "author": "翁卷",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "绿遍山原白满川，子规声里雨如烟。",
+        "乡村四月闲人少，才了蚕桑又插田。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "下册",
+        "order": 11,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/8f39357/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-604b475c6fa86e5e",
+      "title": "杨氏之子",
+      "author": "刘义庆",
+      "dynasty": "南北朝",
+      "kind": "classical-prose",
+      "paragraphs": [
+        "梁国杨氏子九岁，甚聪惠。孔君平诣其父，父不在，乃呼儿出。为设果，果有杨梅。孔指以示儿曰：“此是君家果。”",
+        "儿应声答曰：“未闻孔雀是夫子家禽。”"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 5,
+        "semester": "下册",
+        "order": 12,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/e02c2a0/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-07877fd95c4ae8d4",
+      "title": "宿建德江",
+      "author": "孟浩然",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "移舟泊烟渚，日暮客愁新。",
+        "野旷天低树，江清月近人。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "上册",
+        "order": 1,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/cb40448/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-9a98fe5473fa02e7",
+      "title": "六月二十七日望湖楼醉书",
+      "author": "苏轼",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "黑云翻墨未遮山，白雨跳珠乱入船。",
+        "卷地风来忽吹散，望湖楼下水如天。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "上册",
+        "order": 2,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/2243dbc/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-498bc4816b40a2dd",
+      "title": "西江月·夜行黄沙道中",
+      "author": "辛弃疾",
+      "dynasty": "宋代",
+      "kind": "ci",
+      "paragraphs": [
+        "明月别枝惊鹊，清风半夜鸣蝉。稻花香里说丰年，听取蛙声一片。",
+        "七八个星天外，两三点雨山前。旧时茅店社林边，路转溪桥忽见。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "上册",
+        "order": 3,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/39f9dfd/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-d7872b7c799ab263",
+      "title": "过故人庄",
+      "author": "孟浩然",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "故人具鸡黍，邀我至田家。",
+        "绿树村边合，青山郭外斜。",
+        "开轩面场圃，把酒话桑麻。",
+        "待到重阳日，还来就菊花。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "上册",
+        "order": 4,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/ec01946/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-f0fef409e2590694",
+      "title": "七律·长征",
+      "author": "毛泽东",
+      "dynasty": "近代",
+      "kind": "poem",
+      "paragraphs": [
+        "红军不怕远征难，万水千山只等闲。",
+        "五岭逶迤腾细浪，乌蒙磅礴走泥丸。",
+        "金沙水拍云崖暖，大渡桥横铁索寒。",
+        "更喜岷山千里雪，三军过后尽开颜。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "上册",
+        "order": 5,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/4ec82fd/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-7da8f415f24d92e2",
+      "title": "春日",
+      "author": "朱熹",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "胜日寻芳泗水滨，无边光景一时新。",
+        "等闲识得东风面，万紫千红总是春。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "上册",
+        "order": 6,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/79f81b0/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-c7dd5f66b1e8a734",
+      "title": "回乡偶书",
+      "author": "贺知章",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "少小离家老大回，乡音无改鬓毛衰。",
+        "儿童相见不相识，笑问客从何处来。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "上册",
+        "order": 7,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/7d5de42/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-0830bfe716f3bda6",
+      "title": "浪淘沙（其一）",
+      "author": "刘禹锡",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "九曲黄河万里沙，浪淘风簸自天涯。",
+        "如今直上银河去，同到牵牛织女家。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "上册",
+        "order": 8,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/c319c0c/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-32957568c46c9b25",
+      "title": "江南春",
+      "author": "杜牧",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "千里莺啼绿映红，水村山郭酒旗风。",
+        "南朝四百八十寺，多少楼台烟雨中。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "上册",
+        "order": 9,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/5b9dfb4/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-5e10affac081b44e",
+      "title": "书湖阴先生壁",
+      "author": "王安石",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "茅檐长扫净无苔，花木成畦手自栽。",
+        "一水护田将绿绕，两山排闼送青来。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "上册",
+        "order": 10,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/1d8462f/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-3cb2b6d6a521c114",
+      "title": "伯牙鼓琴",
+      "author": "佚名",
+      "dynasty": "先秦",
+      "kind": "classical-prose",
+      "paragraphs": [
+        "伯牙鼓琴，锺子期听之。方鼓琴而志在太山，锺子期曰：“善哉乎鼓琴，巍巍乎若太山。”",
+        "少选之间而志在流水，锺子期又曰：“善哉乎鼓琴，汤汤乎若流水。”",
+        "锺子期死，伯牙破琴绝弦，终身不复鼓琴，以为世无足复为鼓琴者。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "上册",
+        "order": 11,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/f4fab71/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-3feb8257451cac69",
+      "title": "书戴嵩画牛",
+      "author": "苏轼",
+      "dynasty": "宋代",
+      "kind": "classical-prose",
+      "paragraphs": [
+        "蜀中有杜处士，好书画，所宝以百数。有戴嵩《牛》一轴，尤所爱，锦囊玉轴，常以自随。一日，曝书画，有一牧童见之，拊掌大笑。",
+        "曰：“此画斗牛也？牛斗，力在角，尾搐入两股间。今乃掉尾而斗，谬矣。”处士笑而然之。",
+        "古语有云：“耕当问奴，织当问婢。”不可改也。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "上册",
+        "order": 12,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/fcf90fb/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-dab8dbbbf6d0d2ce",
+      "title": "寒食",
+      "author": "韩翃",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "春城无处不飞花，寒食东风御柳斜。",
+        "日暮汉宫传蜡烛，轻烟散入五侯家。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "下册",
+        "order": 1,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/1c5f8f2/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-f30257196bc77fc9",
+      "title": "迢迢牵牛星",
+      "author": "佚名",
+      "dynasty": "两汉",
+      "kind": "poem",
+      "paragraphs": [
+        "迢迢牵牛星，皎皎河汉女。",
+        "纤纤擢素手，札札弄机杼。",
+        "终日不成章，泣涕零如雨。",
+        "河汉清且浅，相去复几许？",
+        "盈盈一水间，脉脉不得语。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "下册",
+        "order": 2,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/0ff14e0/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-3968c9b3fdcb6a58",
+      "title": "十五夜望月",
+      "author": "王建",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "中庭地白树栖鸦，冷露无声湿桂花。",
+        "今夜月明人尽望，不知秋思落谁家？"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "下册",
+        "order": 3,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/4624da8/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-84858cd8ceb520dd",
+      "title": "长歌行",
+      "author": "汉乐府",
+      "dynasty": "两汉",
+      "kind": "poem",
+      "paragraphs": [
+        "青青园中葵，朝露待日晞。",
+        "阳春布德泽，万物生光辉。",
+        "常恐秋节至，焜黄华叶衰。",
+        "百川东到海，何时复西归？",
+        "少壮不努力，老大徒伤悲。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "下册",
+        "order": 4,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/092a59c/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-479cec3dd960cd53",
+      "title": "马诗",
+      "author": "李贺",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "大漠沙如雪，燕山月似钩。",
+        "何当金络脑，快走踏清秋。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "下册",
+        "order": 5,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/1c6def1/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-5f4d267fedb42f9a",
+      "title": "石灰吟",
+      "author": "于谦",
+      "dynasty": "明代",
+      "kind": "poem",
+      "paragraphs": [
+        "千锤万凿出深山，烈火焚烧若等闲。",
+        "粉骨碎身浑不怕，要留清白在人间。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "下册",
+        "order": 6,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/c48280d/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-2761ca9ffa4b1177",
+      "title": "竹石",
+      "author": "郑燮",
+      "dynasty": "清代",
+      "kind": "poem",
+      "paragraphs": [
+        "咬定青山不放松，立根原在破岩中。",
+        "千磨万击还坚劲，任尔东西南北风。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "下册",
+        "order": 7,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/327f0ca/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-f98866833f16db60",
+      "title": "学弈",
+      "author": "孟子",
+      "dynasty": "先秦",
+      "kind": "classical-prose",
+      "paragraphs": [
+        "弈秋，通国之善弈者也。使弈秋诲二人弈，其一人专心致志，惟弈秋之为听；一人虽听之，一心以为有鸿鹄将至，思援弓缴而射之。虽与之俱学，弗若之矣。为是其智弗若与？曰：非然也。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "下册",
+        "order": 8,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/475d4f6/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-7a14b84646a05b7b",
+      "title": "两小儿辩日",
+      "author": "列子",
+      "dynasty": "先秦",
+      "kind": "classical-prose",
+      "paragraphs": [
+        "孔子东游，见两小儿辩斗，问其故。",
+        "一儿曰：“我以日始出时去人近，而日中时远也。”",
+        "一儿曰：“我以日初出远，而日中时近也。”",
+        "一儿曰：“日初出大如车盖，及日中则如盘盂，此不为远者小而近者大乎？”",
+        "一儿曰：“日初出沧沧凉凉，及其日中如探汤，此不为近者热而远者凉乎？”",
+        "孔子不能决也。",
+        "两小儿笑曰：“孰为汝多知乎？”"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "下册",
+        "order": 9,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/0e2c8bd/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-10da4e5e6f982cda",
+      "title": "采薇（节选）",
+      "author": "佚名",
+      "dynasty": "先秦",
+      "kind": "excerpt",
+      "paragraphs": [
+        "昔我往矣，杨柳依依。",
+        "今我来思，雨雪霏霏。",
+        "行道迟迟，载渴载饥。",
+        "我心伤悲，莫知我哀！"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "下册",
+        "order": 10,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/c5e83ed/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-5ba6907ab5bb53b6",
+      "title": "春夜喜雨",
+      "author": "杜甫",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "好雨知时节，当春乃发生。",
+        "随风潜入夜，润物细无声。",
+        "野径云俱黑，江船火独明。",
+        "晓看红湿处，花重锦官城。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "下册",
+        "order": 11,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/b29f7ab/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-a3bcccc228a4eabf",
+      "title": "闻官军收河南河北",
+      "author": "杜甫",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "剑外忽传收蓟北，初闻涕泪满衣裳。",
+        "却看妻子愁何在，漫卷诗书喜欲狂。",
+        "白日放歌须纵酒，青春作伴好还乡。",
+        "即从巴峡穿巫峡，便下襄阳向洛阳。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "下册",
+        "order": 12,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/8ff9e79/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-a32fb1d806e65cdc",
+      "title": "早春呈水部张十八员外",
+      "author": "韩愈",
+      "dynasty": "唐代",
+      "kind": "poem",
+      "paragraphs": [
+        "天街小雨润如酥，草色遥看近却无。",
+        "最是一年春好处，绝胜烟柳满皇都。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "下册",
+        "order": 13,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/ee0b85f/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-fdff3f2c165922c0",
+      "title": "江上渔者",
+      "author": "范仲淹",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "江上往来人，但爱鲈鱼美。",
+        "君看一叶舟，出没风波里。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "下册",
+        "order": 14,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/bc58add/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-b3551a1276e72828",
+      "title": "泊船瓜洲",
+      "author": "王安石",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "京口瓜洲一水间，钟山只隔数重山。",
+        "春风又绿江南岸，明月何时照我还？"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "下册",
+        "order": 15,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/4f4460b/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-da221769803e6b0b",
+      "title": "游园不值",
+      "author": "叶绍翁",
+      "dynasty": "宋代",
+      "kind": "poem",
+      "paragraphs": [
+        "应怜屐齿印苍苔，小扣柴扉久不开。",
+        "春色满园关不住，一枝红杏出墙来。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "下册",
+        "order": 16,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/7845ffa/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-abef069c9bcbfd4d",
+      "title": "卜算子·送鲍浩然之浙东",
+      "author": "王观",
+      "dynasty": "宋代",
+      "kind": "ci",
+      "paragraphs": [
+        "水是眼波横，山是眉峰聚。欲问行人去那边，眉眼盈盈处。",
+        "才始送春归，又送君归去。若到江南赶上春，千万和春住。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "下册",
+        "order": 17,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/f3135f7/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-4978a5d3088a2ac4",
+      "title": "浣溪沙",
+      "author": "苏轼",
+      "dynasty": "宋代",
+      "kind": "ci",
+      "paragraphs": [
+        "山下兰芽短浸溪，松间沙路净无泥。萧萧暮雨子规啼。",
+        "谁道人生无再少，门前流水尚能西。休将白发唱黄鸡。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "下册",
+        "order": 18,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/48abcc8/",
+      "sourceLicense": "public-domain-original"
+    },
+    {
+      "id": "curriculum-200d18924364e0f0",
+      "title": "清平乐",
+      "author": "黄庭坚",
+      "dynasty": "宋代",
+      "kind": "ci",
+      "paragraphs": [
+        "春归何处？寂寞无行路。若有人知春去处，唤取归来同住。",
+        "春无踪迹谁知？除非问取黄鹂。百啭无人能解，因风飞过蔷薇。"
+      ],
+      "curriculum": {
+        "edition": "unified-2019-baseline",
+        "grade": 6,
+        "semester": "下册",
+        "order": 19,
+        "verification": "baseline"
+      },
+      "sourceUrl": "https://www.gushiwenku.cn/shiwen/158b3ab/",
+      "sourceLicense": "public-domain-original"
+    }
+  ]
+}
