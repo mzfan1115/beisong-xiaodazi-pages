@@ -1,10 +1,10 @@
 {
-  "releasedAt": "2026-10-16T12:16:52+08:00",
+  "releasedAt": "2026-10-16T20:26:57+08:00",
   "poems": 107,
-  "sceneImages": 248,
   "accumulations": 107,
-  "accumulationReferences": 110,
-  "addedAccumulations": 96,
-  "entryAsset": "assets/index-85Uu4zZC.js",
-  "entrySha256": "dac07b133353d23ce6268fac4e6dfa4f4db729e162ada712c37fd11e0f5ae55e"
+  "currentEntries": 229,
+  "sceneImages": 430,
+  "missingIllustrations": 0,
+  "entryAsset": "assets/index-D0-5rN-i.js",
+  "entrySha256": "f534efb23f28a02a272f38ca035cba04f218fa99c10ecec231a7bb2b241ee6ff"
 }
